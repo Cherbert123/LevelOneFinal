@@ -8,6 +8,7 @@
 /Dicey.class
 /DrumKit.class
 /DuelingButtons.class
+/EasyPainting.class
 /Houses.class
 /Jeopardy.class
 /Kettle$Water.class
@@ -42,4 +43,5 @@
 /illusion2.jpg
 /keyboard_key_down.png
 /keyboard_key_up.png
-/EasyPainting.class
+/SimplePainter$Dot.class
+/SimplePainter.class
